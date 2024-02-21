@@ -1,4 +1,4 @@
 # odin-recipes
-Food
+Food is good!
 
 My very first Odin Project Recipe
