@@ -1,0 +1,28 @@
+ul {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 32px;
+}
+
+li {
+    list-style: none;
+    width: 170px;
+    text-align: center;
+    padding: 5px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.hover-col:hover {
+    border-radius: 20px;
+}
+
+.recipe-subtext {
+    font-style: italic;
+    font-size: 0.5em;
+}
+
